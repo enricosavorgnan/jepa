@@ -1,2 +1,2 @@
-# jepa
-A uick dip into the magical worldof JEPA models
+# JEPA
+A quick dip into the magical world of JEPA models.
